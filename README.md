@@ -45,7 +45,7 @@ Responde a las siguiente preguntas en un fichero markdown.
 
 
 ## Entrega
-Puedes hacernos llegar este test comprimido en .zip
+Puedes hacernos llegar este test abriendo un pull request a partir de un fork de este mismo repositorio aquí en github. 
 
 El código dentro de una carpeta "src" y las respuestas a las preguntas en un fichero "respuestas.md"
 
