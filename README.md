@@ -25,7 +25,8 @@ Authorization: Basic cJmAc71jah17sgqi1jqaksvaksda=
 La tarea consiste en programar un cliente que consulte esta API mostrando sus resultados y el usuario final de dicho cliente pueda filtrar por el nombre de la sesión.
 
 ### Requisitos 
-- Siéntete libre de usar el lenguaje que creas más oportuno pero aplica TDD o BDD.
+- Siéntete libre de usar el lenguaje que creas más oportuno.
+- Aplica TDD o BDD.
 - Muestra la mayor cantidad de información posible.
 - El código debe compilar y ejecutarse en un paso.
 - Puedes usar los frameworks y/o librerías que creas oportunos.
